@@ -1,2 +1,6 @@
 chromadb
 pandas
+langchain
+openai
+python-dotenv
+numpy
