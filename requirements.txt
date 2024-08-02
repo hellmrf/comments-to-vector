@@ -1,6 +1,8 @@
 chromadb
 pandas
 langchain
+google.generativeai
 openai
 python-dotenv
 numpy
+tqdm
